@@ -11,3 +11,4 @@ This repository contains some examples of how to use ESP32 in conjunction with t
 - [BLE Scann](./BLE_scan)
 - [SmartConfig](./smartconfig)
 - [Firebase Stream Callback](./stream_callback)
+- [BLE Connect] (./BLE_conn)
